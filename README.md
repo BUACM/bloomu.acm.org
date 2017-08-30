@@ -1,21 +1,5 @@
-# BloomU.info
-git init --bare
---------
-git clone https://github.com/riodw/BloomU.git
------- OR ---------
-git remote add origin https://github.com/riodw/BloomU.git
-git fetch origin master:master
+# bloomu.acm.org
+Bloomsburg University Association for Computing Machine Webpage
 
-
-
-https://github.com/riodw/BloomU.git
-
-git branch
-git checkout -b "Volan_Dev"
-git add . #
-git status
-git commit -m "Initial Commit" #
-git push -u origin Volan_Dev #git push
-git checkout master
-git branch -D Volan_Dev
-git checkout -b Volan_Dev
+## Built by Volan Nnanpalle and Riordan Weber
+## Maintained by ACM
